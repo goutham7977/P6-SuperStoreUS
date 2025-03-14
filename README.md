@@ -4,7 +4,7 @@ The retail industry is highly competitive, requiring businesses to optimize sale
 
 The primary objectives include:
 
- 1.Sales and Profitability Analysis: Identifying the impact of discounts, shipping costs, and order priority on profit margins.
+1.Sales and Profitability Analysis: Identifying the impact of discounts, shipping costs, and order priority on profit margins.
 
 2. Customer Segmentation: Evaluating different customer segments (Corporate, Consumer, Home Office, Small Business) to understand their purchasing behavior and contribution to sales.
 
